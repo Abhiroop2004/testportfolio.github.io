@@ -12,7 +12,7 @@ profile:
     <p> 📍 Kolkata, India </p>
 
 news: false # includes a list of news items
-latest_posts: false
+latest_posts: false # includes latest blogs
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
